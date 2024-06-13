@@ -1,2 +1,2 @@
-# SPK-Hello-World
+# PD-Hello-World
 Pada repository ini digunakan untuk latihan membuat hello world
